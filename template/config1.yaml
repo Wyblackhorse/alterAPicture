@@ -1,0 +1,50 @@
+#队伍1(魔板)
+Team1:
+  coordX: 13
+  coordY: 560
+  FontSize: 15
+  Colour: "white"
+  Content: "Argentinos Jrs Reserves"
+  FontAddress: "C:/Windows/Fonts/georgiab.ttf"
+
+#队伍2
+Team2:
+  coordX: 347
+  coordY: 560
+  FontSize: 30
+  Colour: "white"
+  Content: "Argentinos Jrs Reserves"
+  FontAddress: "C:/Windows/Fonts/georgiab.ttf"
+
+#年份
+Year:
+  coordX: 390
+  coordY: 50
+  FontSize: 35
+  Colour: "black"
+  Content: "20TH"
+  FontAddress: "C:/Windows/Fonts/msyhbd.ttc"
+
+#月份
+Month:
+  coordX: 392
+  coordY: 90
+  FontSize: 35
+  Colour: "black"
+  Content: "NOV"
+  FontAddress: "C:/Windows/Fonts/msyhbd.ttc"
+
+
+#具体时间
+Day:
+  coordX: 390
+  coordY: 135
+  FontSize: 35
+  Colour: "black"
+  Content: "12PM"
+  FontAddress: "C:/Windows/Fonts/msyhbd.ttc"
+
+
+
+BaseMap:
+  Url: "base/456.jpg"
